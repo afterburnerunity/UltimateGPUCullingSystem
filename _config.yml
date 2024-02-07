@@ -1,4 +1,4 @@
-title: Ultimate GPU Culling System (UGCS)
+title: Ultimate GPU Culling System
 description: A GPU-based occlusion culling system for Unity that drastically improves performance with almost zero configuration.
 theme: just-the-docs
 color_scheme: dark
